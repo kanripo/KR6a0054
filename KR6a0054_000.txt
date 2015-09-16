@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 釋摩男本四子經
+#+DATE: 2015-08-30 19:29:49.963391
+#+PROPERTY: JUAN 0
