@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:29:50.170572
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:29
 #+TITLE: 釋摩男本四子經
 #+PROPERTY: CBETA_ID T01n0054
 #+PROPERTY: ID KR6a0054
